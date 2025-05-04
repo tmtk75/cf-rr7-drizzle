@@ -1,0 +1,15 @@
+.env
+*.tfvars
+.*.swp
+.wrangler
+
+
+.terraform.lock.hcl
+.terraform/
+
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
